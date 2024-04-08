@@ -13,7 +13,6 @@ Only official Unreal versions from Epic Games Store are supported. Custom source
 
 ### Supported Stream Protocols: 
 * HLS
-* Video Playback
 
 ### Video Codecs:
 * H.264 (AVC)
