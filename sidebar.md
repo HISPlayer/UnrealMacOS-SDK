@@ -1,4 +1,4 @@
-- [HISPlayer Unreal iOS SDK](/introduction.md)
+- [HISPlayer Unreal MacOS SDK](/introduction.md)
 - [Quickstart Guide](/setup-guide.md)
 - [HISPlayer API](/hisplayer-api.md)
 - [Update the SDK](/update-the-sdk.md)
