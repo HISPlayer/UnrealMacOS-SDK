@@ -14,6 +14,10 @@ The following public APIs are provided by **HISPlayerTypes**.
   * **OnEndContent**: The content ends.
     * **Param1**: Stream's index.
   * **OnTrackChanged**: The track of the stream has changed. 
+    * **Param1**: Stream's index.
+  * **OnInitComplete**: The stream has finished loading process, and its ready to start playing. *(SDK v2.3.0 and above)*
+    * **Param1**: Stream's index.
+  * **OnSeekComplete**: The stream has finished loading process, and its ready to start playing. *(SDK v2.3.0 and above)*
     * **Param1**: Stream's index. 
 <p align="center">
 <img src="./images/blueprint-example.png">
