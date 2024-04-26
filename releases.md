@@ -1,7 +1,7 @@
 # HISPlayer MacOS SDK Release Notes
 
 ### Version 2.3.0
-##### April 24, 2023
+##### April 24, 2024
 - [Added] OnInitComplete delegate.
 - [Added] OnSeekComplete delegate.
 - [Added] Video track change and video track info retrieval related functionalities.
