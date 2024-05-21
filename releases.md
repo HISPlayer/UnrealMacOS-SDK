@@ -1,7 +1,6 @@
 # HISPlayer MacOS SDK Release Notes
 ### Version 2.6.1
 ##### May 21, 2024
-- [Improvement] Improvement of software robustness.
 - [Improvement] Improvement of Get HISPlayerStatus API.
   
 ### Version 2.6.0
