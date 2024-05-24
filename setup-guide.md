@@ -97,10 +97,6 @@ To do that on Unreal 5, go to **Edit > Project Settings > Engine > Rendering > D
 <img src="./images/AntiAliasing.png">
 </p>
 
-<p align="center">
-<img src="./images/DefaultRHI.png">
-</p>
-
 ## Packaging the project
 Before packaging the project, please make sure first that you are using the correct Xcode version and Unreal MacOS configurations.
 
