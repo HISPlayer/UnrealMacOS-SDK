@@ -1,4 +1,5 @@
 # HISPlayer MacOS SDK Release Notes
+### Version 2.7.0
 ##### May 31, 2024
 - [Improvement] Optimized HISPlayer matetrial to be color emissive without being affected by external light source.
 
