@@ -22,13 +22,10 @@ Then, add your video's relative path to your **Content**'s folder. In this examp
 </p>
 
 ## Device’s local videos
-In order to add videos from the device, keep in mind the SDK is taking the root path of the phone storage. The next step is to pass the name (**with the extension**) to the Stream URL field.
+HISPlayer MacOs for Unreal can play local content using the absolute path. For example : **/Users/User/Desktop/Videos/movie.mp4** . 
+
+Select the **HISPlayer_Blueprint** in the level outliner, go to the **Details** window and inside the **HISPlayer** section you can find the variable **Stream URL** that you will be able to customize. Please input the absolute path where the video file is located into the **Stream URL** field.
 
 <p align="center">
 <img src="./images/local-content.png">
 </p>
-
-In the case of exploring subfolders of the devices, it’s enough adding the subfolder at the beginning of the path, e.g., using a **WhatsApp video** it is possible to provide the following path: 
-
-**WhatsApp/Media/WhatsApp Video/video.mp4**
-&nbsp;
