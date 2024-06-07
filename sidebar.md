@@ -1,5 +1,6 @@
 - [HISPlayer Unreal MacOS SDK](/introduction.md)
 - [Quickstart Guide](/setup-guide.md)
 - [HISPlayer API](/hisplayer-api.md)
+- [Playing Local Files](/local-files.md)
 - [Update the SDK](/update-the-sdk.md)
 - [Releases](/releases.md)
