@@ -9,7 +9,7 @@ In order to add local content to your Unreal project, create a diretory named *M
 <img src="./images/movies.png">
 </p>
 
-Then, in your **Windows/Mac file explorer**, add your video into that folder. Then, drag and drop the content into the editor's *Movies* folder, to create the *movie.uasset* element. It's very important that the content exists on the *Content/Movies* folder of your project, otherwise it might not copy to the device (just the uasset might not be enough):  
+Then, in your **Mac file explorer**, add your video into that folder. Then, drag and drop the content into the editor's *Movies* folder, to create the *movie.uasset* element. It's very important that the content exists on the *Content/Movies* folder of your project, otherwise it might not copy to the device (just the uasset might not be enough):  
 
 <p align="center">
 <img src="./images/moviesmp4.png">
