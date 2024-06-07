@@ -1,4 +1,8 @@
 # HISPlayer MacOS SDK Release Notes
+### Version 2.8.0
+##### June 7, 2024
+- [Added] Local file playback support.
+
 ### Version 2.7.0
 ##### May 31, 2024
 - [Improvement] Optimized HISPlayer matetrial to be color emissive without being affected by external light source.
