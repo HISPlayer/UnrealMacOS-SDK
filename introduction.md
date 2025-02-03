@@ -3,8 +3,6 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 
 ## Compatibility
 ### Supported Unreal Versions: 
-* 4.27
-* 5.0
 * 5.1
 * 5.2
 * 5.3
@@ -55,5 +53,4 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 
 ## XCode Supported version:
 * Latest 14 : Unreal 5.2, 5.3.
-* Latest 13 : Unreal 5.0, 5.1.
-* Latest 12 : Unreal 4.27.
+* Latest 13 : Unreal 5.1.
