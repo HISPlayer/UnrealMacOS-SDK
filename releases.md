@@ -1,4 +1,10 @@
 # HISPlayer MacOS SDK Release Notes
+
+### Version 2.10.0
+##### February 26, 2026
+- [Added] Support for Unreal Engine 5.6 and 5.7.
+- [Improvement] Updated plugin content elements naming to following Unreal Engine naming conventions
+
 ### Version 2.8.0
 ##### June 7, 2024
 - [Added] Local video playback support.
