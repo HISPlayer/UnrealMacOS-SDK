@@ -54,9 +54,10 @@ If you need other Unreal version support, please contact us at contact@hisplayer
 ### Supported Graphics API:
 * Metal
 
-## Unreal for MacOS Minimum Mac Version:
-* MacOS Ventura 13.6
+## Unreal Engine 5 – macOS Requirements
 
-## XCode Supported version:
-* Latest 14 : Unreal 5.2, 5.3.
-* Latest 13 : Unreal 5.1.
+Unreal Engine system requirements on macOS depend on the specific Unreal Engine version being used.
+
+For accurate and updated macOS development requirements, please consult the official Unreal Engine documentation:
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/macos-development-requirements-for-unreal-engine
