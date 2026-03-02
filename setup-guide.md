@@ -19,9 +19,10 @@ Open your project and go into Edit > Plugins, look for the HISPlayer plugin and 
 
 <p align="center">
 <img width="933" height="121" alt="image" src="https://github.com/user-attachments/assets/ac60e0a0-0625-45ed-9ae0-067ef31b63d3" />
-</p
+</p>
 
 ## Set Default Build Settings Version
+
 It is preferable to use the HISPlayer SDK in a C++ project, rather than in an only blueprint one. To create a C++ project from an only blueprint project, go to **Tools > New C++ Class** and follow the indications to create a new one. Any kind of C++ parent class will work.
 
 <p align="center">
