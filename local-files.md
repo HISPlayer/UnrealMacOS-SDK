@@ -21,7 +21,7 @@ To configure it:
 4. Enter the full absolute file path into the **Stream URL** field.
 
 <p align="center">
-<img src="./images/local-content.png">
+<img width="740" height="134" alt="image" src="https://github.com/user-attachments/assets/d238a314-381e-4121-b836-6d35640fcd0a" />
 </p>
 
 ---
