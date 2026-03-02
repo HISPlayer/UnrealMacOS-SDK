@@ -1,28 +1,28 @@
 # HISPlayer Unreal MacOS SDK
-The most advanced video streaming player for Unreal Engine supporting VOD and Live contents. It enables premium HLS video streaming inside your Unreal games and metaverses on MacOS. It is fully customizable. If you require specific or advanced features, please don't hesitate to contact us at contact@hisplayer.com.
+The most advanced video streaming player for Unreal Engine supporting supporting local files, VOD, and live streaming. It enables premium HLS video streaming inside your Unreal games and metaverses on macOS.
+Fully customizable and extensible to fit advanced streaming requirements. If you require specific or advanced features, please don't hesitate to contact us at [contact@hisplayer.com](mailto:contact@hisplayer.com).
 
 ## Compatibility
 ### Supported Unreal Versions: 
-* 5.1
-* 5.2
-* 5.3
-* 5.4
-* 5.5
+  * [Deprecated] 4.27 - 5.4
+  * 5.5
+  * 5.6
+  * 5.7
+
+Only official Unreal Engine versions distributed through the Epic Games Launcher are supported. Custom source builds are not supported.
+
+If you need other Unreal version support, please contact us at contact@hisplayer.com.
 
 ### Supported Stream Protocols: 
-* HLS
+  * HLS (Live & VOD)
 
-### Video Codecs:
+### Supported Video Codecs:
 * H.264 (AVC)
   * Container Format must be fragmented MP4 (fMP4) files or MPEG transport streams
   * Profile and Level must be less than or equal to High Profile, Level 5.2. Do not use Main or Baseline Profile.
 * H.265 (HEVC)
   * Container Format must be fragmented MP4 (fMP4) files
   * Profile, Level, and Tier must be less than or equal to Main 10 Profile, Level 5.1, High Tier.
-
-### Audio Codecs:
-* AAC
-* MP3
 
 ### Supported Video Formats
 * WMV
@@ -39,6 +39,13 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 * RMVB
 * 3GP
 * MPG
+
+### Supported Audio Codecs:
+* AAC
+
+### Supported Audio Formats:
+  * MP3
+  * WAV
 
 ### Supported Unreal’s Rendering Mode: 
 * Texture
