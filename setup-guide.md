@@ -64,14 +64,14 @@ To render the content, you need to set an actor with **M_HISPlayerMat** as Mater
 </p>
 
 ## Configure HISPlayer multistream properties
-Set the player’s parameters as desired in your **HISPlayer_Blueprint** actor for single stream and multistream.
-It is possible to add more than one stream using one instance of the **HISPlayer_Blueprint**, by adding more elements to the Stream URL and Target Actors arrays.
+Set the player’s parameters as desired in your **BP_HISPlayer** actor for single stream and multistream.
+It is possible to add more than one stream using one instance of the **BP_HISPlayer**, by adding more elements to the Stream URL and Target Actors arrays.
 
 <p align="center">
 <img src="./images/playback-props.png">
 </p>
 
-You can modify the behavior of the **HISPlayer_Blueprint** as desired or use a custom blueprint, as long as it follows the original structure.
+You can modify the behavior of the **BP_HISPlayer** as desired or use a custom blueprint, as long as it follows the original structure.
 
 <p align="center">
 <img src="./images/graphic.png">
@@ -84,10 +84,15 @@ Use the **HISPlayer API** to add your own implementation.
 </p>
 
 ## License Key
-Input the license key that is associated with the SDK. If the license key is not valid, the player won’t work and will throw an error message. To find this field, go to the Level Outliner and look for the HISPlayer_Blueprint actor. Then, on the Details window, look for the HISPlayer section.
+
+Input the license key that is associated with the SDK. If the license key is not valid, the player won’t work and will throw an error message.
+
+To find this field, go to the Level Outliner and look for the **BP_HISPlayer** actor. Then, in the **Details** window, locate the **HISPlayer** section.
+
+> Note: If you are using the FAB marketplace package, entering a license key is not required.
 
 <p align="center">
-<img src="./images/licensekey.png">
+<img width="849" height="681" alt="image" src="https://github.com/user-attachments/assets/74e9097f-4ab4-41f9-adf0-570e11995b91" />
 </p>
 
 ## Disable Anti-Aliasing
