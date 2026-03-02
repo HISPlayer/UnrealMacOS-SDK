@@ -54,8 +54,6 @@ If you need other Unreal version support, please contact us at contact@hisplayer
 ### Supported Graphics API:
 * Metal
 
-### Multistream is not supported for MacOS platform.
-
 ## Unreal for MacOS Minimum Mac Version:
 * MacOS Ventura 13.6
 
