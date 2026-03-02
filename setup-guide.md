@@ -79,10 +79,6 @@ You can modify the behavior of the **BP_HISPlayer** as desired or use a custom b
 
 Use the **HISPlayer API** to add your own implementation.
 
-<p align="center">
-<img src="./images/sample.png">
-</p>
-
 ## License Key
 
 Input the license key that is associated with the SDK. If the license key is not valid, the player won’t work and will throw an error message.
